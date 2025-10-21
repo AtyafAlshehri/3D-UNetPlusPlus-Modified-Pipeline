@@ -40,8 +40,7 @@ scikit-learn
 
 
 
-
-## Usage Instructions
+Usage Instructions
 
 Clone or download this repository.
 
@@ -53,7 +52,7 @@ Run ACDC_Model_Segmentation.ipynb to train or test the 3D UNet++ segmentation mo
 
 Run feature_extraction_and_classification.ipynb to extract features and classify cardiac diseases.
 
-## Methodology
+Methodology
 
 The pipeline follows the stages described in the manuscript:
 
@@ -65,7 +64,7 @@ Feature Extraction: Quantitative LV, RV, and MYO measurements (volumes, ratios, 
 
 Classification: Disease classification into NOR, DCM, HCM, MINF, and RV abnormality groups.
 
-## Citations
+Citations
 
 If you use this repository, please cite:
 
@@ -77,7 +76,7 @@ Dataset citation:
 
 Bernard O. et al., "Deep Learning Techniques for Automatic MRI Cardiac Segmentation and Diagnosis: The ACDC Challenge," Medical Image Analysis, 2018.
 
-## License
+License
 
 This repository is released for academic and research purposes under a
 Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
